@@ -1,7 +1,7 @@
 % BME 3053C Final Project
 % Author: Lauren Ellis
 % Course: BME 3053C Computer Applications for BME 
-% Group Members: Sarah Stenber, Karley Baringer, and Delaney Boyle
+% Group Members: Sarah Stenberg, Karley Baringer, and Delaney Boyle
 % Term: Spring 2022 
 % J. Crayton Pruitt Family Department of Biomedical Engineering 
 % University of Florida 
